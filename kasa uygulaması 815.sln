@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kasa uygulaması 815", "kasa uygulaması 815\kasa uygulaması 815.csproj", "{EAEE2152-D14B-4B3E-AB56-A065DBAA616A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAEE2152-D14B-4B3E-AB56-A065DBAA616A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEE2152-D14B-4B3E-AB56-A065DBAA616A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEE2152-D14B-4B3E-AB56-A065DBAA616A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEE2152-D14B-4B3E-AB56-A065DBAA616A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EDD86C8-E0AD-4AE7-9FED-6C249BD866C9}
+	EndGlobalSection
+EndGlobal
